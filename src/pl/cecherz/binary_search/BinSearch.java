@@ -3,10 +3,11 @@ package pl.cecherz.binary_search;
 
 /**
  *  Test binary search algorithm
- *  find() - body method contain algorithm code
- *  iterate() - show all values in table and loop calls
- *  index() - print index of declare number to find
- *  fill() - fill declare table range values n - 0, limit - parameter
+ *  ----------------------------
+ *  find(list, item) - body method contain algorithm code
+ *  iterate(tab) - show all values in table and loop calls
+ *  index(tab, item) - print index of declare number to find
+ *  fill(size) - fill declare table range values n - 0, limit - parameter
  *  */
 class BinSearch {
     private static int find(int[] list, int item) {
