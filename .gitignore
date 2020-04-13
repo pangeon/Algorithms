@@ -3,6 +3,6 @@ out/
 .idea/
 Algorithms.iml
 src/test/
-
+target/
 
 
