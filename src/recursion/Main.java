@@ -21,5 +21,8 @@ public class Main {
         FactorialTail.printResult(70);
         FactorialTail.printResult(80);
         FactorialTail.printResult(90);
+        System.out.println("--------");
+        MathArray.printValue(new int[] {1, 2, 3});
+        MathArray.showMinValue(new int[] {1, 2, 3, -1, -2, 33});
     }
 }
